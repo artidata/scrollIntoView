@@ -1,2 +1,3 @@
 # scrollIntoView
-Created with CodeSandbox
+
+Simple scrolling by element id.
