@@ -1,3 +1,3 @@
 # scrollIntoView
 
-Simple scrolling by element id.
+React simple page scrolling into an element by id.
